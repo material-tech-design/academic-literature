@@ -1,2 +1,2 @@
 # academic-literature
-Peer reviewed papers from journals
+Peer reviewed journals and papers
